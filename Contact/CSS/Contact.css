@@ -1,0 +1,87 @@
+div {
+    background-color: white;
+
+   
+}
+body{
+    background-color: darkgray;
+    margin: 0;
+    height: 100%;
+}
+.head {
+        border-bottom: 3px solid;
+
+}
+header {
+ 
+    background-color: white;
+    padding-top: 5px;
+}
+
+
+strong {
+    background-color: green;
+    color: white;
+   margin-left: 3%;
+    padding: auto;
+    text-align: center;
+   
+    
+}
+a {
+float: right;
+padding-right: 3%;
+padding-left: 3%;
+text-decoration: none;
+
+
+}
+#Portfolio {
+    border-left: 3px solid #b95050;
+  
+}
+#Contact {
+    border-left: 3px solid;
+    color: black;
+}
+
+.main {
+    position: relative;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: aqua;
+    padding-left: 3%;
+    padding-right: 3%;
+   
+}
+
+    
+
+#h1 {
+    border-bottom: 2px solid;
+    padding-left: 3%;
+    padding-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: aqua;
+    
+   
+}
+
+
+    
+
+footer {
+    
+    text-align: center;
+    background-color: blue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 20px;
+}
+
