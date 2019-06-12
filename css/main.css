@@ -36,50 +36,12 @@ text-decoration: none;
 
 }
 #Portfolio {
-    border-left: 3px solid #b95050;
-  
+    border-left: 3px solid rgb(224, 191, 191);
 }
 #Contact {
     border-left: 3px solid;
     color: black;
 }
-.main {
-    position: relative;
-    margin-right: 10%;
-    margin-left: 10%;
-    margin-top: 5%;
-    margin-bottom: 50%;
-    background-color: aqua;
-    
-}
-#h1 {
-    border-bottom: 3px solid;
-    margin-right: auto;
-    margin-left: auto;
-   
-}
-
-  
-#i1, #i2, #i3, #i4, #i5 {
-    position: relative;
-    left: 0%;
-    top: 0%;
-    z-index: 1;
-
-
-
-
-}
-
-
-#a1, #a2, #a3, #a4, #a5 {
-    position: relative;
-    left: 0%;
-    top: 60%;
-    z-index: 3;
-
-}
-
 footer {
     
     text-align: center;
@@ -91,5 +53,33 @@ footer {
     left: 0;
     right: 0;
     font-size: 20px;
-}
 
+
+    
+}
+#something {
+    margin: 40% 5% 60% 5%;
+    text-align: center;
+  
+}
+p {
+    position: absolute;
+    top: 5%;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    float: right;
+    border-top: 3px solid;
+    margin-top: 3%;
+}
+.ss {
+   
+    color: green;
+    position: absolute;
+    top: 5%;
+    bottom: 10%;
+    left: 10%;
+    right: 10%;
+    float: right;
+
+}
