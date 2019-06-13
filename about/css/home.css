@@ -50,3 +50,7 @@ footer {
     text-align: center;
   
 }
+#picright {
+    float: left;
+    margin: 5px;
+}
