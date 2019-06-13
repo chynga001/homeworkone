@@ -10,37 +10,41 @@ body{
 }
 .head {
         border-bottom: 3px solid;
+        padding: 1%;
 
 }
 header {
  
     background-color: white;
-    padding-top: 5px;
+    padding-top: 1%;
+    margin: 0%;
+
 }
 
 
 strong {
     background-color: green;
     color: white;
-   margin-left: 3%;
-    padding: auto;
+    margin-left: 3%;
+    padding: 2% 1% 1% 1%;
     text-align: center;
-   
-    
+    font-size: 23px;
 }
 a {
-  float: right;
+float: right;
 padding-right: 3%;
 padding-left: 3%;
 text-decoration: none;
 
 }
 #Portfolio {
-    border-left: 3px solid rgb(224, 191, 191);
+    border-left: 3px solid black;
+    color: purple;
 }
 #Contact {
-    border-left: 3px solid;
-    color: black;
+    border-left: 3px solid black;
+    color: purple;
+    
 }
 footer {
     
@@ -54,24 +58,8 @@ footer {
     right: 0;
     font-size: 20px;
 
+}
 
-    
-}
-#something {
-    margin: 40% 5% 60% 5%;
-    text-align: center;
-  
-}
-p {
-    position: absolute;
-    top: 5%;
-    bottom: 0;
-    left: 10%;
-    right: 10%;
-    float: right;
-    border-top: 3px solid;
-    margin-top: 3%;
-}
 .ss {
    
     color: green;
@@ -81,6 +69,7 @@ p {
     left: 10%;
     right: 10%;
     float: right;
+    background-color: darkgray;
 
 }
 #picright {
