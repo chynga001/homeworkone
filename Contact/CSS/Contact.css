@@ -8,8 +8,14 @@ body{
     margin: 0;
     height: 100%;
 }
+body{
+    background-color: darkgray;
+    margin: 0;
+    height: 100%;
+}
 .head {
         border-bottom: 3px solid;
+        padding: 1%;
 
 }
 header {
@@ -20,31 +26,31 @@ header {
 
 }
 
+
 strong {
     background-color: green;
     color: white;
     margin-left: 3%;
-    padding: 2% 1% 0% 1%;
+    padding: 2% 1% 1% 1%;
     text-align: center;
     font-size: 23px;
-    
 }
 a {
-    float: right;
-    padding-right: 3%;
-    padding-left: 3%;
-    text-decoration: none;
-    
-    }
+float: right;
+padding-right: 3%;
+padding-left: 3%;
+text-decoration: none;
+
+}
 #Portfolio {
-        border-left: 3px solid black;
-        color: purple;
-    }
+    border-left: 3px solid black;
+    color: purple;
+}
 #Contact {
-        border-left: 3px solid black;
-        color: black;
-        color: purple;
-    }
+    border-left: 3px solid black;
+    color: purple;
+    
+}
 
 .main {
     position: relative;
