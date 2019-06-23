@@ -59,6 +59,7 @@ text-decoration: none;
 }
 #main2 {
     text-align: center;
+    margin: 5%;
    
    
 
@@ -84,28 +85,32 @@ text-decoration: none;
     position: absolute;
     z-index: 2;
     font-size: 2vw;
+    color:#ffffff;
+    
     
 }
 #a1 {
+  margin: 4%;
   top: 25%;
   left: 0%;
 }
 #a2 {
-    top: 25%;
+    top: 35%;
     left: 49%;
 }
  
 #a3 {
+    margin: 3%;
     top: 55%;
     left: 0%;
  }
  #a4 {
-    top: 55%;
-    left: 47%;
+    top: 62%;
+    left: 50%;
  }
 #a5 {
     top: 88%;
-    left: 40%;
+    left: 43%;
 }
 
 footer {
@@ -119,5 +124,28 @@ footer {
     left: 0;
     right: 0;
     font-size: 20px;
+}
+@media screen and (max-width: 768px) {
+    .head {
+        background-color: lightseagreen;
+    }
+    header {
+        background-color: lightseagreen;
+    }
+    
+    body {
+      background-color: greenyellow;
+    }
+
+    footer {
+        background-color: lightseagreen;
+    }
+    img{
+        width: 150px;
+        height: 150px;
+    }
+    a{
+        float:none;
+    }
 }
 
